@@ -345,9 +345,6 @@
 
   // ---------- "choose this pass" pre-fills the registration form ----------
   document.addEventListener('click', function (e) {
-    var pl = e.target.closest && e.target.closest('[data-plan]');
-    var ps = pl && document.getElementById('nom-plan');
-    if (ps) { ps.value = pl.getAttribute('data-plan'); var pf = ps.closest('.field'); pf.classList.remove('flash'); void pf.offsetWidth; pf.classList.add('flash'); }
     var a = e.target.closest && e.target.closest('[data-pick]');
     if (!a) return;
     var sel = document.getElementById('reg-pass');
@@ -390,7 +387,7 @@
       empty.hidden = !v || any;
     }
     // category detail panels are built on first open (keeps the initial DOM small)
-    var T = { hi: ['मान्यता समूह', 'इस श्रेणी में नामांकन करें →'], en: ['Recognition group', 'Nominate in this category →'] };
+    var T = { hi: ['मान्यता समूह', 'इस श्रेणी के लिए प्लान चुनें →', 'इस श्रेणी को जोड़ें +'], en: ['Recognition group', 'Choose a plan for this category →', 'Add this category +'] };
     ui.addEventListener('toggle', function (e) {
       var d = e.target;
       if (!d.classList || !d.classList.contains('cat') || !d.open || d.querySelector('.cat-body')) return;
@@ -399,20 +396,13 @@
       var p = document.createElement('p'), b = document.createElement('b');
       b.textContent = panel.querySelector('h3').textContent;
       p.appendChild(document.createTextNode(t[0] + ': ')); p.appendChild(b);
-      var a = document.createElement('a'); a.className = 'btn gold sm'; a.href = '#nominate';
+      var a = document.createElement('a'); a.className = 'btn gold sm'; a.href = '#fees';
       a.setAttribute('data-cat-pick', ''); a.setAttribute('data-group', panel.getAttribute('data-group')); a.setAttribute('data-name', d.getAttribute('data-name'));
-      a.textContent = t[1];
+      var dlg = ui.closest('dialog'); a.textContent = dlg && dlg.getAttribute('data-mode') === 'pick' ? t[2] : t[1];
       body.appendChild(p); body.appendChild(a); d.appendChild(body);
     }, true);
     q.addEventListener('input', filter);
     document.addEventListener('langchange', filter);
-    document.addEventListener('click', function (e) {
-      var a = e.target.closest && e.target.closest('[data-cat-pick]'); if (!a) return;
-      var g = document.getElementById('nom-category'), s = document.getElementById('nom-specific');
-      if (g) { g.value = a.getAttribute('data-group'); g.dispatchEvent(new Event('change', { bubbles: true })); }
-      if (s) s.value = a.getAttribute('data-name').replace(/&amp;/g, '&');
-      [g, s].forEach(function (el) { if (!el) return; var f = el.closest('.field'); f.classList.remove('flash'); void f.offsetWidth; f.classList.add('flash'); });
-    });
   })();
 
   // marquee: second half is a visual duplicate for the seamless loop
@@ -532,6 +522,257 @@
       if (pl && /^Corporate/.test(pl.getAttribute('data-plan'))) show(tabs[1]);
     });
   })();
+
+  // ---------- register flow: sectors -> plan -> registration popup -> review -> payment ----------
+  (function () {
+    var reg = document.getElementById('reg-modal'), catM = document.getElementById('cat-modal');
+    if (!reg || !catM) return;
+    var EN = doc.lang === 'en';
+    function T(hi, en) { return EN ? en : hi; }
+    var cfg = window.NBT_PAY || {}, forms = window.NBT_FORMS || {};
+    var GST = cfg.gstRate != null ? +cfg.gstRate : 18;
+    var SUPPORT = 'sagun.kumari@timesinternet.in';
+
+    var plans = {}, order = [];
+    [].forEach.call(document.querySelectorAll('button[data-plan]'), function (b) {
+      var n = b.getAttribute('data-plan');
+      plans[n] = { name: n, label: b.getAttribute(EN ? 'data-label-en' : 'data-label-hi'), price: +b.getAttribute('data-price'), cats: +b.getAttribute('data-cats') };
+      order.push(n);
+    });
+
+    // no <dialog> support: fall back to email so "Select Plan" never dead-ends
+    if (!reg.showModal) {
+      document.addEventListener('click', function (e) {
+        var b = e.target.closest && e.target.closest('button[data-plan]'); if (!b) return;
+        location.href = 'mailto:' + SUPPORT + '?subject=' + encodeURIComponent('NBT Vasudha Awards 2027 — ' + b.getAttribute('data-plan'));
+      });
+      return;
+    }
+
+    var form = document.getElementById('reg-form'), views = {}, steps = [].slice.call(reg.querySelectorAll('.steps li'));
+    [].forEach.call(reg.querySelectorAll('.rview'), function (v) { views[v.getAttribute('data-view')] = v; });
+    function $(id) { return document.getElementById(id); }
+    var status = $('reg-status'), rvStatus = $('rv-status'), payBtn = $('rv-pay'), selPlan = form.elements.plan, selSector = form.elements.sector;
+    var chips = $('reg-chips'), list = $('reg-list'), need = $('reg-need'), catsErr = $('reg-cats-err'), note = $('pre-note');
+
+    // category catalogue, read from the explorer markup (English keys are language-independent)
+    var groups = [];
+    [].forEach.call(catM.querySelectorAll('.cat-panel'), function (p) {
+      var g = { key: p.getAttribute('data-group'), label: p.querySelector('h3').textContent, items: [] };
+      [].forEach.call(p.querySelectorAll('.cat'), function (c) { g.items.push({ key: c.getAttribute('data-name'), label: c.querySelector('summary span').textContent, group: g }); });
+      groups.push(g);
+    });
+    function opt(sel, v, t) { var o = document.createElement('option'); o.value = v; o.textContent = t; sel.appendChild(o); return o; }
+    order.forEach(function (n) { opt(selPlan, n, plans[n].label + ' — ₹' + plans[n].price.toLocaleString('en-IN') + ' + GST'); });
+    var ph = opt(selSector, '', T('क्षेत्र चुनें', 'Select a sector')); 
+    groups.forEach(function (g) { opt(selSector, g.key, g.label); });
+
+    var cur = null, sel = [], preCat = null, ref = null, done = false;
+    function money(n) { return '₹' + n.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+    function calc(p) { var gst = Math.round(p.price * GST) / 100; return { base: p.price, gst: gst, total: Math.round((p.price + gst) * 100) / 100 }; }
+
+    function showView(v) {
+      Object.keys(views).forEach(function (k) { views[k].hidden = k !== v; });
+      var n = { form: 0, review: 1, result: 2 }[v];
+      steps.forEach(function (li, i) { li.classList.toggle('on', i <= n); if (i === n) li.setAttribute('aria-current', 'step'); else li.removeAttribute('aria-current'); });
+      reg.scrollTop = 0;
+      var h = views[v].querySelector('h2'); if (h) h.focus({ preventScroll: true });
+    }
+
+    function setPlan(n) {
+      cur = plans[n]; selPlan.value = n;
+      $('reg-plan-name').textContent = cur.label;
+      $('reg-plan-price').textContent = '₹' + cur.price.toLocaleString('en-IN');
+      need.textContent = T('(' + cur.cats + ' चुनें)', '(choose ' + cur.cats + ')');
+      if (sel.length > cur.cats) sel = sel.slice(0, cur.cats);
+      renderPick();
+    }
+
+    function renderPick() {
+      chips.textContent = '';
+      sel.forEach(function (it) {
+        var c = document.createElement('button'); c.type = 'button'; c.className = 'chip-sel';
+        c.textContent = it.label + ' ×';
+        c.setAttribute('aria-label', T('हटाएँ: ', 'Remove: ') + it.label);
+        c.addEventListener('click', function () { sel.splice(sel.indexOf(it), 1); renderPick(); });
+        chips.appendChild(c);
+      });
+      var cnt = document.createElement('span'); cnt.className = 'chip-count'; cnt.textContent = sel.length + ' / ' + cur.cats + T(' चुनी गईं', ' selected'); chips.appendChild(cnt);
+      list.textContent = '';
+      var g = groups.filter(function (k) { return k.key === selSector.value; })[0];
+      if (!g) { var h = document.createElement('p'); h.className = 'pick-hint'; h.textContent = T('श्रेणियाँ देखने के लिए क्षेत्र चुनें, या “सभी श्रेणियाँ देखें” दबाएँ।', 'Choose a sector to see its categories, or press “View All Categories”.'); list.appendChild(h); return; }
+      g.items.forEach(function (it) {
+        var on = sel.indexOf(it) > -1;
+        var l = document.createElement('label'); l.className = 'pick-item';
+        var i = document.createElement('input'); i.type = 'checkbox'; i.checked = on; i.disabled = !on && cur.cats > 1 && sel.length >= cur.cats;
+        i.addEventListener('change', function () {
+          if (i.checked) { if (cur.cats === 1) sel = [it]; else if (sel.length < cur.cats) sel.push(it); }
+          else sel.splice(sel.indexOf(it), 1);
+          catsErr.hidden = true; renderPick();
+        });
+        var t = document.createElement('span'); t.textContent = it.label;
+        l.appendChild(i); l.appendChild(t); list.appendChild(l);
+      });
+    }
+
+    function addByKey(key) {
+      var it = null; groups.forEach(function (g) { g.items.forEach(function (x) { if (x.key === key) it = x; }); });
+      if (!it) return;
+      if (sel.indexOf(it) < 0) {
+        if (cur.cats === 1) sel = [it];
+        else if (sel.length < cur.cats) sel.push(it);
+        else { catsErr.hidden = false; catsErr.textContent = T('इस प्लान में अधिकतम ' + cur.cats + ' श्रेणियाँ चुनी जा सकती हैं। नई जोड़ने के लिए पहले एक हटाएँ।', 'This plan allows up to ' + cur.cats + ' categories. Remove one to add another.'); }
+      }
+      selSector.value = it.group.key; renderPick();
+    }
+
+    function openReg(name) {
+      setPlan(name);
+      if (preCat && !sel.length) addByKey(preCat);
+      status.textContent = ''; catsErr.hidden = true;
+      showView('form'); reg.showModal();
+    }
+    function openCat(i, pick) {
+      catM.setAttribute('data-mode', pick ? 'pick' : 'browse');
+      var t = { hi: ['इस श्रेणी को जोड़ें +', 'इस श्रेणी के लिए प्लान चुनें →'], en: ['Add this category +', 'Choose a plan for this category →'] }[EN ? 'en' : 'hi'];
+      [].forEach.call(catM.querySelectorAll('.cat-body a'), function (a) { a.textContent = pick ? t[0] : t[1]; });
+      if (i !== 'all') { var tab = catM.querySelectorAll('.cat-tab')[+i]; if (tab) tab.click(); }
+      catM.showModal(); catM.scrollTop = 0;
+    }
+
+    document.addEventListener('click', function (e) {
+      var t = e.target; if (!t.closest) return;
+      var b = t.closest('button[data-plan]'); if (b) { openReg(b.getAttribute('data-plan')); return; }
+      var o = t.closest('[data-open-cat]'); if (o) { openCat(o.getAttribute('data-open-cat'), false); return; }
+      var card = t.closest('.sector'); if (card && !t.closest('a')) { card.querySelector('[data-open-cat]').click(); return; }
+      var x = t.closest('[data-close]'); if (x) { x.closest('dialog').close(); return; }
+      var p = t.closest('[data-cat-pick]');
+      if (p) {
+        e.preventDefault();
+        var key = p.getAttribute('data-name');
+        if (catM.getAttribute('data-mode') === 'pick') { addByKey(key); catM.close(); return; }
+        preCat = key; catM.close();
+        var it = null; groups.forEach(function (g) { g.items.forEach(function (y) { if (y.key === key) it = y; }); });
+        if (it) { note.hidden = false; note.textContent = T('चुनी गई श्रेणी: ', 'Category selected: ') + it.label + T(' — अब अपना प्लान चुनें।', ' — now choose your plan.'); }
+        $('fees').scrollIntoView({ behavior: reduce ? 'auto' : 'smooth' });
+      }
+    });
+    [reg, catM].forEach(function (d) { d.addEventListener('click', function (e) { if (e.target === d) d.close(); }); });
+    $('reg-viewall').addEventListener('click', function () { openCat('all', true); });
+    selSector.addEventListener('change', renderPick);
+    selPlan.addEventListener('change', function () { setPlan(selPlan.value); });
+    reg.addEventListener('close', function () { if (done) { form.reset(); sel = []; ref = null; done = false; preCat = null; note.hidden = true; clearFormErrors(); showView('form'); } });
+
+    // step 1 -> 2
+    form.addEventListener('submit', function (e) {
+      e.preventDefault(); status.textContent = '';
+      if (form.elements.website.value) return;   // honeypot
+      var bad = validate(form), okCats = sel.length === cur.cats;
+      catsErr.hidden = okCats;
+      if (!okCats) catsErr.textContent = T('कृपया ' + cur.cats + ' श्रेणी' + (cur.cats > 1 ? 'याँ' : '') + ' चुनें।', 'Please choose ' + cur.cats + ' categor' + (cur.cats > 1 ? 'ies' : 'y') + '.');
+      if (bad || !okCats) { status.textContent = msg('fix'); (bad || selSector).focus(); return; }
+      fillReview(); rvStatus.textContent = ''; payBtn.disabled = false; showView('review');
+    });
+    $('rv-back').addEventListener('click', function () { showView('form'); });
+
+    function fillReview() {
+      var f = form.elements, c = calc(cur), recap = $('rv-recap'); recap.textContent = '';
+      [[T('नाम', 'Name'), f.name.value], [T('मोबाइल', 'Mobile'), f.mobile.value], [T('ईमेल', 'Email'), f.email.value],
+       [T('संगठन', 'Organisation'), f.company.value], [T('पदनाम', 'Designation'), f.designation.value], [T('GSTIN', 'GSTIN'), f.gstin.value],
+       [T('प्लान', 'Plan'), cur.label], [T('श्रेणियाँ', 'Categories'), sel.map(function (x) { return x.label; }).join(' · ')]
+      ].forEach(function (r) { if (!r[1]) return; var dt = document.createElement('dt'), dd = document.createElement('dd'); dt.textContent = r[0]; dd.textContent = r[1]; recap.appendChild(dt); recap.appendChild(dd); });
+      var bill = $('rv-bill'); bill.textContent = '';
+      [[T('प्लान शुल्क', 'Plan fee'), money(c.base)], ['GST @' + GST + '%', money(c.gst)], [T('कुल देय राशि', 'Total payable'), money(c.total)]].forEach(function (r, i) {
+        var row = document.createElement('div'); row.className = 'bill-row' + (i === 2 ? ' total' : '');
+        var a = document.createElement('span'), b = document.createElement('b'); a.textContent = r[0]; b.textContent = r[1]; row.appendChild(a); row.appendChild(b); bill.appendChild(row);
+      });
+    }
+
+    // ----- payment -----
+    function newRef() { return 'NBTV27-' + Date.now().toString(36).slice(-5).toUpperCase() + Math.random().toString(36).slice(2, 5).toUpperCase(); }
+    function payload() {
+      var f = form.elements, c = calc(cur), secs = [];
+      sel.forEach(function (x) { if (secs.indexOf(x.group.key) < 0) secs.push(x.group.key); });
+      return { form: 'registration', reference: ref, submittedAt: new Date().toISOString(), page: location.pathname.split('/').pop() || 'awards.html', lang: doc.lang, utm: utm(), referrer: document.referrer || '',
+        plan: cur.name, amount: { base: c.base, gstRate: GST, gst: c.gst, total: c.total, currency: 'INR' },
+        fields: { name: f.name.value.trim(), mobile: f.mobile.value.trim(), email: f.email.value.trim(), company: f.company.value.trim(), designation: f.designation.value.trim(), gstin: f.gstin.value.trim() },
+        sectors: secs, categories: sel.map(function (x) { return x.key; }) };
+    }
+    function result(state, title, text, extra) {
+      $('res-title').textContent = title; $('res-msg').textContent = text;
+      $('res-refline').hidden = state === 'failed'; $('res-ref').textContent = ref || '';
+      reg.querySelector('.res').setAttribute('data-state', state);
+      $('res-retry').hidden = state !== 'failed'; $('res-mail').hidden = !(extra && extra.mail);
+      if (extra && extra.mail) $('res-mail').href = extra.mail;
+      showView('result');
+      if (state === 'success') { done = true; celebrate(views.result); }
+    }
+    function fail(text) { payBtn.disabled = false; result('failed', T('भुगतान पूरा नहीं हुआ', 'Payment not completed'), text); }
+    $('res-retry').addEventListener('click', function () { rvStatus.textContent = ''; payBtn.disabled = false; showView('review'); });
+
+    function loadScript(src) {
+      return new Promise(function (ok, no) {
+        if (window.Razorpay) return ok();
+        var s = document.createElement('script'); s.src = src; s.onload = ok; s.onerror = function () { no(new Error('script')); }; document.head.appendChild(s);
+      });
+    }
+    function post(url, body) {
+      return fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+    }
+    function online() {
+      post(cfg.createOrderEndpoint, payload()).then(function (o) {
+        if (!o || !o.orderId || !o.keyId) throw new Error('order');
+        if (o.reference) ref = o.reference;
+        return loadScript(cfg.checkoutScript || 'https://checkout.razorpay.com/v1/checkout.js').then(function () { openCheckout(o); });
+      }).catch(function () { fail(T('भुगतान शुरू नहीं हो सका। कृपया दोबारा कोशिश करें, या हमसे संपर्क करें।', 'We could not start the payment. Please try again, or contact us.')); });
+    }
+    function openCheckout(o) {
+      var f = form.elements;
+      var rz = new window.Razorpay({
+        key: o.keyId, amount: o.amount, currency: o.currency || 'INR', order_id: o.orderId, name: 'NBT Vasudha Awards 2027', description: cur.label,
+        prefill: { name: f.name.value.trim(), email: f.email.value.trim(), contact: f.mobile.value.trim() }, notes: { reference: ref }, theme: { color: '#047857' },
+        handler: verify,
+        modal: { ondismiss: function () { payBtn.disabled = false; rvStatus.textContent = T('भुगतान रद्द किया गया। आप दोबारा कोशिश कर सकते हैं।', 'Payment was cancelled. You can try again.'); } }
+      });
+      rz.on('payment.failed', function () { fail(T('बैंक/कार्ड से भुगतान सफल नहीं हुआ। कृपया दोबारा कोशिश करें।', 'The payment was not successful. Please try again.')); });
+      rz.open();
+    }
+    // a registration is only marked paid once the server has verified the gateway signature
+    function verify(r) {
+      rvStatus.textContent = T('भुगतान की पुष्टि हो रही है…', 'Verifying your payment…');
+      if (!cfg.verifyEndpoint) { fail(T('भुगतान की पुष्टि सेटअप नहीं है। कृपया संदर्भ संख्या के साथ हमसे संपर्क करें: ', 'Payment verification is not set up. Please contact us with your reference: ') + ref); return; }
+      post(cfg.verifyEndpoint, { reference: ref, razorpay_order_id: r.razorpay_order_id, razorpay_payment_id: r.razorpay_payment_id, razorpay_signature: r.razorpay_signature })
+        .then(function (v) {
+          if (!v || !v.ok) throw new Error('verify');
+          if (v.reference) ref = v.reference;
+          result('success', T('पंजीकरण की पुष्टि हो गई', 'Registration confirmed'), T('भुगतान सफल रहा। पुष्टि आपके ईमेल पर भेजी जाएगी; हमारी टीम नामांकन की अगली प्रक्रिया साझा करेगी।', 'Payment received. A confirmation will be emailed to you and our team will share the next steps for your nomination.'));
+        })
+        .catch(function () { fail(T('भुगतान की पुष्टि नहीं हो सकी। अगर राशि कट गई है तो संदर्भ संख्या के साथ हमसे संपर्क करें: ', 'We could not confirm the payment. If money was debited, contact us with your reference: ') + ref); });
+    }
+    // no payment gateway configured yet: hand the registration to the team, never claim it is paid
+    function offline() {
+      var p = payload(), pend = function (mail) {
+        result('pending', T('पंजीकरण अनुरोध दर्ज हुआ', 'Registration request recorded'),
+          T('ऑनलाइन भुगतान अभी चालू नहीं है। हमारी टीम आपसे संपर्क कर भुगतान लिंक साझा करेगी।', 'Online payment is not switched on yet. Our team will contact you and share a payment link.') + (mail ? T(' कृपया खुले हुए ईमेल को भेज दें।', ' Please press send on the email that opened.') : ''), { mail: mail });
+      };
+      if (forms.endpoint) {
+        p.status = 'payment_pending';
+        fetch(forms.endpoint, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body: JSON.stringify(p) })
+          .then(function (r) { if (!r.ok && r.type !== 'opaque') throw new Error(r.status); pend(null); })
+          .catch(function () { fail(T('भेजा नहीं जा सका। कृपया दोबारा कोशिश करें, या सीधे लिखें: ', 'Could not send. Please try again, or write to us directly: ') + SUPPORT); });
+        return;
+      }
+      var f = p.fields, lines = ['Reference: ' + ref, 'Plan: ' + cur.name + ' (' + money(p.amount.total) + ' incl. GST)', 'Name: ' + f.name, 'Mobile: ' + f.mobile, 'Email: ' + f.email, 'Organisation: ' + f.company, 'Designation: ' + f.designation, 'GSTIN: ' + (f.gstin || '-'), 'Sectors: ' + p.sectors.join('; '), 'Categories: ' + p.categories.join('; ')];
+      var href = 'mailto:' + SUPPORT + '?subject=' + encodeURIComponent('NBT Vasudha Awards 2027 — Registration ' + ref + ' — ' + f.name) + '&body=' + encodeURIComponent(lines.join('\n'));
+      pend(href); location.href = href;
+    }
+    payBtn.addEventListener('click', function () {
+      if (!ref) ref = newRef();
+      payBtn.disabled = true; rvStatus.textContent = T('प्रोसेस हो रहा है…', 'Processing…');
+      if (cfg.createOrderEndpoint) online(); else offline();
+    });
+  })();
+
 
   // Everything is wired up: switch on the JS-driven reveal state, then show the below-the-fold content once its CSS is in.
   doc.classList.remove('no-js');

@@ -19,3 +19,7 @@ Static site (HTML/CSS/JS only). Production URL: https://timeslanguages.in/nbtvas
 - Publish launch articles/press releases and nomination-call stories; get coverage and backlinks from sustainability/ESG outlets and partner sites.
 - Share the pages on social (the OG image/cards are ready); add listings on event platforms (Allevents, Eventbrite-style, LinkedIn Events) linking back.
 - Keep the Hindi and English URLs consistent in every link (hreflang is already set).
+
+## Awards registration & payment
+"Register Now" → pricing → **Select Plan** → registration popup (details + category selection) → review (plan fee, GST, total) → payment.
+Configure `window.NBT_PAY` in `assets/config.js` (`createOrderEndpoint`, `verifyEndpoint`, `gstRate`); the request/response contract is documented there. Razorpay Checkout is assumed. Without endpoints the popup records the registration (via `NBT_FORMS.endpoint` or email) and says payment is not live yet — it never shows a false "paid" state.
