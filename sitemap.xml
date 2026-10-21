@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://timeslanguages.in/nbtvasudha/hi/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/hi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/"/>
+  </url>
+  <url>
     <loc>https://timeslanguages.in/nbtvasudha/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/en/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/hi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/"/>
   </url>
   <url>
-    <loc>https://timeslanguages.in/nbtvasudha/en/</loc>
+    <loc>https://timeslanguages.in/nbtvasudha/hi/awards.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/"/>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/hi/awards.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
   </url>
   <url>
     <loc>https://timeslanguages.in/nbtvasudha/awards.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/en/awards.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
-  </url>
-  <url>
-    <loc>https://timeslanguages.in/nbtvasudha/en/awards.html</loc>
-    <lastmod>2026-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/en/awards.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://timeslanguages.in/nbtvasudha/hi/awards.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://timeslanguages.in/nbtvasudha/awards.html"/>
   </url>
 </urlset>

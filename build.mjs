@@ -1,4 +1,4 @@
-// Build: src/*.html  ->  index.html, awards.html (Hindi, default)  +  en/index.html, en/awards.html (English)
+// Build: src/*.html  ->  index.html, awards.html (English, default)  +  hi/index.html, hi/awards.html (Hindi)
 //        assets/style.css, assets/main.js  ->  minified, content-hashed copies
 //        plus sitemap.xml, robots.txt, site.webmanifest, _headers
 //
@@ -156,7 +156,7 @@ const faqFrom = (html) => [...html.matchAll(/<details>\s*<summary>((?:(?!<\/summ
 function jsonLd(page, lang, url, html) {
   const L = lang === 'hi' ? 'hi-IN' : 'en-IN';
   const meta = PAGES[page][lang];
-  const home = lang === 'hi' ? SITE + '/' : SITE + '/en/';
+  const home = lang === 'en' ? SITE + '/' : SITE + '/hi/';
   const img = `${SITE}/assets/img/${PAGES[page].og}`;
   const org = { '@type': 'Organization', '@id': SITE + '/#organizer', name: 'Times Internet Languages Live', url: ORG_URL, sameAs: [ORG_URL] };
   const nbt = { '@type': 'Organization', '@id': SITE + '/#presenter', name: lang === 'hi' ? 'नवभारत टाइम्स' : 'Navbharat Times', alternateName: 'NBT', url: NBT_URL, sameAs: [NBT_URL],
@@ -169,7 +169,7 @@ function jsonLd(page, lang, url, html) {
   if (page === 'awards') crumbs.push({ '@type': 'ListItem', position: 2, name: lang === 'hi' ? 'अवॉर्ड्स' : 'Awards', item: url });
 
   const summit = {
-    '@type': 'Event', '@id': (lang === 'hi' ? SITE + '/' : SITE + '/en/') + '#summit',
+    '@type': 'Event', '@id': (lang === 'en' ? SITE + '/' : SITE + '/hi/') + '#summit',
     name: lang === 'hi' ? 'NBT वसुधा समिट 2027' : 'NBT Vasudha Summit 2027',
     description: PAGES.index[lang].desc, startDate: '2027-02-13T09:30:00+05:30',
     eventStatus: 'https://schema.org/EventScheduled', eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
@@ -183,14 +183,14 @@ function jsonLd(page, lang, url, html) {
     ],
   };
   const awards = {
-    '@type': 'Event', '@id': (lang === 'hi' ? SITE + '/awards.html' : SITE + '/en/awards.html') + '#awards',
+    '@type': 'Event', '@id': (lang === 'en' ? SITE + '/awards.html' : SITE + '/hi/awards.html') + '#awards',
     name: lang === 'hi' ? 'NBT वसुधा अवॉर्ड्स 2027' : 'NBT Vasudha Awards 2027',
     alternateName: lang === 'hi' ? 'संकल्प से प्रभाव तक' : 'Sankalp Se Prabhao Tak',
     description: PAGES.awards[lang].desc, startDate: '2027-02-13T18:30:00+05:30',
     eventStatus: 'https://schema.org/EventScheduled', eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
     location: place, image: [`${SITE}/assets/img/og-awards.jpg`], inLanguage: 'en-IN', isAccessibleForFree: false,
     organizer: [{ '@id': SITE + '/#organizer' }, { '@id': SITE + '/#presenter' }],
-    superEvent: { '@id': (lang === 'hi' ? SITE + '/' : SITE + '/en/') + '#summit' },
+    superEvent: { '@id': (lang === 'en' ? SITE + '/' : SITE + '/hi/') + '#summit' },
     offers: [
       offer(lang === 'hi' ? 'व्यक्तिगत ग्रोथ प्लान (1 श्रेणी)' : 'Individual Growth Plan (1 category)', 9999, '#fees'),
       offer(lang === 'hi' ? 'व्यक्तिगत एक्सेलेरेशन प्लान (2 श्रेणियाँ)' : 'Individual Acceleration Plan (2 categories)', 17999, '#fees'),
@@ -217,7 +217,7 @@ function jsonLd(page, lang, url, html) {
 // ---------------------------------------------------------------- head
 function head(page, lang, R, url, html) {
   const m = PAGES[page][lang], file = PAGES[page].file;
-  const u = (l) => (l === 'hi' ? (page === 'index' ? SITE + '/' : `${SITE}/${file}`) : (page === 'index' ? SITE + '/en/' : `${SITE}/en/${file}`));
+  const u = (l) => (l === 'en' ? (page === 'index' ? SITE + '/' : `${SITE}/${file}`) : (page === 'index' ? SITE + '/hi/' : `${SITE}/hi/${file}`));
   const image = `${SITE}/assets/img/${PAGES[page].og}`;
     return [
     '<meta charset="utf-8">',
@@ -228,7 +228,7 @@ function head(page, lang, R, url, html) {
     `<link rel="canonical" href="${url}">`,
     `<link rel="alternate" hreflang="hi" href="${u('hi')}">`,
     `<link rel="alternate" hreflang="en" href="${u('en')}">`,
-    `<link rel="alternate" hreflang="x-default" href="${u('hi')}">`,
+    `<link rel="alternate" hreflang="x-default" href="${u('en')}">`,
     '<meta name="theme-color" content="#04110c">',
     '<meta name="color-scheme" content="dark">',
     '<meta name="author" content="Times Internet Languages Live">',
@@ -264,18 +264,18 @@ function head(page, lang, R, url, html) {
 
 const langSwitch = (page, lang) => {
   const f = PAGES[page].file;
-  return lang === 'hi'
-    ? `<div class="lang" role="group" aria-label="भाषा / Language"><a href="${f}" hreflang="hi" lang="hi" aria-current="true">हिन्दी</a><a href="en/${f}" hreflang="en" lang="en" rel="alternate">English</a></div>`
-    : `<div class="lang" role="group" aria-label="भाषा / Language"><a href="../${f}" hreflang="hi" lang="hi" rel="alternate">हिन्दी</a><a href="${f}" hreflang="en" lang="en" aria-current="true">English</a></div>`;
+  return lang === 'en'
+    ? `<div class="lang" role="group" aria-label="भाषा / Language"><a href="hi/${f}" hreflang="hi" lang="hi" rel="alternate">हिन्दी</a><a href="${f}" hreflang="en" lang="en" aria-current="true">English</a></div>`
+    : `<div class="lang" role="group" aria-label="भाषा / Language"><a href="${f}" hreflang="hi" lang="hi" aria-current="true">हिन्दी</a><a href="../${f}" hreflang="en" lang="en" rel="alternate">English</a></div>`;
 };
 
 // ---------------------------------------------------------------- build pages
-mkdirSync('en', { recursive: true });
+mkdirSync('hi', { recursive: true });
 for (const page of Object.keys(PAGES)) {
   const src = readFileSync(`src/${PAGES[page].file}`, 'utf8');
   for (const lang of ['hi', 'en']) {
-    const R = lang === 'hi' ? '' : '../';
-    const url = lang === 'hi' ? (page === 'index' ? SITE + '/' : `${SITE}/${PAGES[page].file}`) : (page === 'index' ? SITE + '/en/' : `${SITE}/en/${PAGES[page].file}`);
+    const R = lang === 'en' ? '' : '../';
+    const url = lang === 'en' ? (page === 'index' ? SITE + '/' : `${SITE}/${PAGES[page].file}`) : (page === 'index' ? SITE + '/hi/' : `${SITE}/hi/${PAGES[page].file}`);
     let body = lang === 'en' ? toEnglish(src) : src;
     body = stripI18nAttrs(body);
     // header logos: inlined (no request before first paint); footer logos stay lazy files
@@ -287,22 +287,22 @@ for (const page of Object.keys(PAGES)) {
     body = body.replace('<!--HEAD-->', head(page, lang, R, url, body));
     body = squeeze(body);
     if (/\{\{|data-en/.test(body)) throw new Error(`leftover token in ${page}/${lang}`);
-    writeFileSync(lang === 'hi' ? PAGES[page].file : `en/${PAGES[page].file}`, body);
-    console.log(`${lang === 'hi' ? '' : 'en/'}${PAGES[page].file}`.padEnd(18), (body.length / 1024).toFixed(1) + ' KB');
+    writeFileSync(lang === 'en' ? PAGES[page].file : `hi/${PAGES[page].file}`, body);
+    console.log(`${lang === 'en' ? '' : 'hi/'}${PAGES[page].file}`.padEnd(18), (body.length / 1024).toFixed(1) + ' KB');
   }
 }
 
 // ---------------------------------------------------------------- static files
 const today = new Date().toISOString().slice(0, 10);
-const loc = (p) => ({ hi: p === 'index' ? SITE + '/' : `${SITE}/${PAGES[p].file}`, en: p === 'index' ? SITE + '/en/' : `${SITE}/en/${PAGES[p].file}` });
-const entry = (p, l) => `  <url>\n    <loc>${loc(p)[l]}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${p === 'index' ? (l === 'hi' ? '1.0' : '0.9') : (l === 'hi' ? '0.9' : '0.8')}</priority>\n` +
-  ['hi', 'en'].map((x) => `    <xhtml:link rel="alternate" hreflang="${x}" href="${loc(p)[x]}"/>`).join('\n') + `\n    <xhtml:link rel="alternate" hreflang="x-default" href="${loc(p).hi}"/>\n  </url>`;
+const loc = (p) => ({ en: p === 'index' ? SITE + '/' : `${SITE}/${PAGES[p].file}`, hi: p === 'index' ? SITE + '/hi/' : `${SITE}/hi/${PAGES[p].file}` });
+const entry = (p, l) => `  <url>\n    <loc>${loc(p)[l]}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${p === 'index' ? (l === 'en' ? '1.0' : '0.9') : (l === 'en' ? '0.9' : '0.8')}</priority>\n` +
+  ['hi', 'en'].map((x) => `    <xhtml:link rel="alternate" hreflang="${x}" href="${loc(p)[x]}"/>`).join('\n') + `\n    <xhtml:link rel="alternate" hreflang="x-default" href="${loc(p).en}"/>\n  </url>`;
 writeFileSync('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${['index', 'awards'].flatMap((p) => ['hi', 'en'].map((l) => entry(p, l))).join('\n')}\n</urlset>\n`);
 // NOTE: crawlers only read robots.txt from the domain ROOT (https://timeslanguages.in/robots.txt). This copy is for reference —
 // add its `Sitemap:` line to the root robots.txt of timeslanguages.in (or submit the sitemap in Search Console).
 writeFileSync('robots.txt', `User-agent: *\nAllow: ${SITE_PATH}/\n\nSitemap: ${SITE}/sitemap.xml\n`);
 writeFileSync('site.webmanifest', JSON.stringify({
-  name: NAME_EN, short_name: 'NBT Vasudha', description: PAGES.index.en.desc, lang: 'hi-IN', start_url: SITE_PATH + '/', scope: SITE_PATH + '/', display: 'standalone',
+  name: NAME_EN, short_name: 'NBT Vasudha', description: PAGES.index.en.desc, lang: 'en-IN', start_url: SITE_PATH + '/', scope: SITE_PATH + '/', display: 'standalone',
   background_color: '#04110c', theme_color: '#04110c',
   icons: [{ src: 'assets/img/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' }, { src: 'assets/img/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }],
 }, null, 2));

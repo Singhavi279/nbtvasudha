@@ -4,7 +4,7 @@ Static site (HTML/CSS/JS only). Production URL: https://timeslanguages.in/nbtvas
 
 ## Edit → build
 - Edit `src/index.html`, `src/awards.html` (Hindi text + `data-en="English"`), `assets/style.css`, `assets/main.js`, and `build.mjs` (titles, descriptions, JSON-LD, SITE url).
-- Run `npm install` once, then `npm run build`. It generates `index.html`, `awards.html`, `en/*.html`, hashed CSS/JS, `sitemap.xml`, `robots.txt`, `site.webmanifest`, `_headers`. **Never edit the generated files.**
+- Run `npm install` once, then `npm run build`. It generates `index.html`, `awards.html`, `hi/*.html`, hashed CSS/JS, `sitemap.xml`, `robots.txt`, `site.webmanifest`, `_headers`. **Never edit the generated files.**
 - If you add new Devanagari wording, re-subset the two Devanagari fonts in `assets/fonts` (unknown glyphs fall back to the system font until then).
 
 ## Go-live checklist
