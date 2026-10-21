@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /nbtvasudha/
+
+Sitemap: https://timeslanguages.in/nbtvasudha/sitemap.xml
