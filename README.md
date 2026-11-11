@@ -1,25 +1,23 @@
-# NBT Vasudha Summit & Awards 2027
+# NBT Vasudha — Summit 2027 & Sustainability Awards 2026
 
-Static site (HTML/CSS/JS only). Production URL: https://timeslanguages.in/nbtvasudha/
+A plain static site: HTML, CSS, JS and images. No build step, no dependencies.
 
-## Edit → build
-- Edit `src/index.html`, `src/awards.html` (Hindi text + `data-en="English"`), `assets/style.css`, `assets/main.js`, and `build.mjs` (titles, descriptions, JSON-LD, SITE url).
-- Run `npm install` once, then `npm run build`. It generates `index.html`, `awards.html`, `hi/*.html`, hashed CSS/JS, `sitemap.xml`, `robots.txt`, `site.webmanifest`, `_headers`. **Never edit the generated files.**
-- If you add new Devanagari wording, re-subset the two Devanagari fonts in `assets/fonts` (unknown glyphs fall back to the system font until then).
+```
+index.html, awards.html        English (default)
+hi/index.html, hi/awards.html  Hindi
+assets/css/style.css           all styles (Poppins loaded from Google Fonts)
+assets/js/config.js            form endpoint + payment settings (edit this)
+assets/js/main.js              all behaviour
+assets/img/                    logos, hero image, icons, social previews
 
-## Go-live checklist
-1. Upload everything except `src/`, `node_modules/`, `build.mjs`, `package*.json` (keeping them is harmless).
-2. Serve with compression (brotli/gzip) and the cache headers in `_headers` (immutable for `/assets/*`).
-3. `robots.txt` only works at the domain root: add the `Sitemap: https://timeslanguages.in/nbtvasudha/sitemap.xml` line to https://timeslanguages.in/robots.txt.
-4. Search Console: add the property, submit the sitemap, request indexing of the 4 URLs. Validate structured data with Google's Rich Results Test.
-5. Set the `endpoint` in `assets/config.js` so form leads are stored (otherwise forms open an email).
+```
 
-## Off-page SEO (cannot be done in code)
-- Link to the site from navbharattimes.com and timeslanguages.in (homepage, event/awards sections, relevant articles) using descriptive anchors like "NBT Vasudha Awards 2027".
-- Publish launch articles/press releases and nomination-call stories; get coverage and backlinks from sustainability/ESG outlets and partner sites.
-- Share the pages on social (the OG image/cards are ready); add listings on event platforms (Allevents, Eventbrite-style, LinkedIn Events) linking back.
-- Keep the Hindi and English URLs consistent in every link (hreflang is already set).
+Run locally: `python3 -m http.server` and open http://localhost:8000.
+Deploy: upload the folder to any static host (GitHub Pages is already set up).
 
-## Awards registration & payment
-"Register Now" → pricing → **Select Plan** → registration popup (details + category selection) → review (plan fee, GST, total) → payment.
-Configure `window.NBT_PAY` in `assets/config.js` (`createOrderEndpoint`, `verifyEndpoint`, `gstRate`); the request/response contract is documented there. Razorpay Checkout is assumed. Without endpoints the popup records the registration (via `NBT_FORMS.endpoint` or email) and says payment is not live yet — it never shows a false "paid" state.
+Edit content directly in the four HTML files — keep the English and Hindi pages in sync.
+
+## Forms and payment
+Set the endpoints in `assets/js/config.js`. With none set, forms open a pre-filled email and the
+registration popup records the registration and shows a "payment pending" state — it never shows "paid"
+without server-side verification. The request/response contract is documented in that file.
