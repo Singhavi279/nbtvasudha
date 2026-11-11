@@ -431,3 +431,9 @@
   });
 
 })();
+
+/* hero video: respect reduced-motion */
+(function () {
+  var v = document.querySelector('.hero-video');
+  if (v && window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { v.removeAttribute('autoplay'); v.pause(); }
+})();

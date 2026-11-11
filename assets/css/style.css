@@ -366,44 +366,21 @@ header .wrap, .hero .wrap{
   pointer-events: none;
 }
 
-.hero .photo svg{
-  width: 100%;
-  height: 100%;
-  display: block;
-  filter: saturate(1.2) contrast(1.06) brightness(1.08);
-  transform-origin: 62% 50%;
-  animation: zoom 16s ease-in-out infinite alternate;
-}
 
-@keyframes zoom{
-  from { transform: scale(1); }
-  to { transform: scale(1.035); }
-}
 
-@keyframes spin{
-  to { transform: rotate(360deg); }
-}
 
-@keyframes glow{
-  from { opacity: .5; }
-  to { opacity: 1; }
-}
 
-.rot.big{ animation: spin 9s linear infinite; }
-.rot.sm{ animation: spin 6s linear infinite; }
-.sun{ animation: glow 5s ease-in-out infinite alternate; }
 
-@media (prefers-reduced-motion: reduce){
-  .hero .photo svg, .rot, .sun{ animation: none; }
-}
 
-.hero svg.land{
-  position: absolute;
-  right: -2%;
-  top: 6%;
-  height: 88%;
-  opacity: .9;
-}
+
+
+
+
+
+
+
+
+
 
 .hero .in{
   position: relative;
@@ -507,9 +484,7 @@ header .wrap, .hero .wrap{
     min-height: 600px;
     height: auto;
   }
-  .hero .photo svg{
-    transform-origin: 50% 50%;
-  }
+  
   .hero::after{
     height: 40px;
   }
@@ -539,9 +514,7 @@ header .wrap, .hero .wrap{
   .hero p{
     font-size: 16px;
   }
-  .hero .photo svg{
-    object-fit: cover;
-  }
+  
 }
 
 /* ---------------------------------------------------------------- Sections & Rhythm */
@@ -1214,3 +1187,23 @@ footer .foot-links a:hover{ text-decoration: underline; text-underline-offset: 3
 @media (max-width: 680px){ .foot-text{ font-size: 13px; } }
 .foot-top .footer-logo{ height: 64px; width: auto; }
 .tl-logo img{ height: 72px; width: auto; }
+
+/* ---- hero video background */
+.hero { background: #0a2414; }
+.hero .photo video { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero::before {
+  background:
+    linear-gradient(90deg, rgba(6,30,17,.92) 0, rgba(6,30,17,.78) 32%, rgba(6,30,17,.38) 58%, rgba(6,30,17,.12) 100%),
+    linear-gradient(180deg, rgba(6,30,17,.35) 0, transparent 30%);
+}
+.hero::after { height: 90px; }
+.hero-main-logo { filter: drop-shadow(0 10px 28px rgba(0,0,0,.4)); }
+@media (max-width: 860px) {
+  .hero::before { background: linear-gradient(180deg, rgba(6,30,17,.82) 0, rgba(6,30,17,.7) 60%, rgba(6,30,17,.55) 100%); }
+}
+.hero::before {
+  background:
+    linear-gradient(90deg, rgba(6,30,17,.88) 0, rgba(6,30,17,.62) 34%, rgba(6,30,17,.2) 62%, rgba(6,30,17,0) 100%),
+    linear-gradient(180deg, rgba(6,30,17,.3) 0, transparent 28%);
+}
+.hero .photo video { filter: saturate(1.15) contrast(1.05); }

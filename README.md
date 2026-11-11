@@ -9,6 +9,7 @@ assets/css/style.css           all styles (Poppins loaded from Google Fonts)
 assets/js/config.js            form endpoint + payment settings (edit this)
 assets/js/main.js              all behaviour
 assets/img/                    logos, hero image, icons, social previews
+assets/video/hero.mp4          hero background (muted loop, 540 KB)
 
 ```
 
