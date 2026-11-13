@@ -1,24 +1,11928 @@
-# NBT Vasudha — Summit 2027 & Sustainability Awards 2026
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-A plain static site: HTML, CSS, JS and images. No build step, no dependencies.
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-```
-index.html, awards.html        English (default)
-hi/index.html, hi/awards.html  Hindi
-assets/css/style.css           all styles (Poppins loaded from Google Fonts)
-assets/js/config.js            form endpoint + payment settings (edit this)
-assets/js/main.js              all behaviour
-assets/img/                    logos, hero image, icons, social previews
-assets/video/hero.mp4          hero background (muted loop, 540 KB)
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-```
+N## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-Run locally: `python3 -m http.server` and open http://localhost:8000.
-Deploy: upload the folder to any static host (GitHub Pages is already set up).
+B## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-Edit content directly in the four HTML files — keep the English and Hindi pages in sync.
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
-## Forms and payment
-Set the endpoints in `assets/js/config.js`. With none set, forms open a pre-filled email and the
-registration popup records the registration and shows a "payment pending" state — it never shows "paid"
-without server-side verification. The request/response contract is documented in that file.
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+V## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+—## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+7## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+&## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+6## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+L## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+C## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+J## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+N## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+x## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+E## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+x## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+F## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
++## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+7## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+6## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+B## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+5## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+B## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+R## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+3## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+D## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+E## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+L## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+—## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+E## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+E## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+7## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+6## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+*## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+*## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+1## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+3## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+F## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+7## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+B## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+N## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+D## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+*## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+*## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+6## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+3## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+:## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+3## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+;## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+I## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+₹## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+I## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+₹## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+1## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+7## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+C## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+₹## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+5## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+C## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+₹## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+3## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+C## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+A## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+₹## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+5## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+1## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+9## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
++## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+<## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+>## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+O## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+J## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+O## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+N## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+L## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+D## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+—## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+'## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+L## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+C## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+<## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+>## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+;## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+M## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+L## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+4## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+8## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+6## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+0## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+x## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+D## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+2## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+G## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+N## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+E## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+P## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+=## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+;## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+H## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+=## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+D## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+k## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+(## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+)## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+I## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+b## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+=## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+z## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+x## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+### Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+F## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+S## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+j## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+`## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+W## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+,## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+y## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+g## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+—## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+"## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+w## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+-## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+v## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+T## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+q## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+/## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+p## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+r## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+s## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+o## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+c## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+u## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+m## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+d## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+n## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+h## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+a## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+t## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+ ## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+f## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+i## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+l## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+e## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+.## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
+
+## Forms
+Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
+
