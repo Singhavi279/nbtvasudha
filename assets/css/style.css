@@ -32,20 +32,6 @@
   --ease: cubic-bezier(.16, 1, .3, 1);
   color-scheme: light;
 }
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --bg: #0c1a12; --surface: #13261a; --ink: #e8f3ea; --muted: #a9bfae;
-    --green: #6fd08a; --line: #24402d; --soft: #173222;
-    --shadow: 0 14px 32px -12px rgba(0, 0, 0, .55);
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"]{
-  --bg: #0c1a12; --surface: #13261a; --ink: #e8f3ea; --muted: #a9bfae;
-  --green: #6fd08a; --line: #24402d; --soft: #173222;
-  --shadow: 0 14px 32px -12px rgba(0, 0, 0, .55);
-  color-scheme: dark;
-}
 
 *, *::before, *::after{ box-sizing: border-box; margin: 0; padding: 0; }
 html{ scroll-behavior: smooth; scroll-padding-top: 84px; -webkit-text-size-adjust: 100%; }
