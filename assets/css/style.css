@@ -401,6 +401,16 @@ dialog.modal::backdrop{ background: rgba(6, 30, 17, .66); -webkit-backdrop-filte
 }
 
 /* contact: one card per segment, several people per card */
-#contact .card .who ~ .who{ margin-top: 16px; }
+#contact .grid{ flex-direction: column; align-items: center; gap: 16px; }
+#contact .grid > .card{ flex: none; width: 100%; max-width: 1000px; min-width: 0; flex-direction: row; align-items: center; justify-content: flex-start; text-align: left; gap: 24px; padding: 22px 32px; }
+#contact .card:hover{ transform: none; box-shadow: none; }
+#contact .card .ic{ margin: 0; flex: none; }
+#contact .card h3{ margin: 0; flex: 0 0 190px; font-size: 20px; }
+#contact .people{ display: flex; flex-wrap: wrap; gap: 14px 40px; flex: 1; }
+#contact .person .who{ margin-bottom: 2px; }
+@media (max-width: 680px){
+  #contact .grid > .card{ flex-direction: column; align-items: flex-start; gap: 10px; padding: 20px; }
+  #contact .card h3{ flex: none; }
+}
 .contact-general{ text-align: center; margin: 36px auto 0; max-width: 90ch; color: var(--muted); font-size: 15.5px; }
 .contact-general a{ color: var(--green); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
