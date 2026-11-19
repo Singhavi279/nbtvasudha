@@ -7,7 +7,7 @@
 //
 // Leave it empty and each form falls back to opening a pre-filled email to the
 // relevant contact (registration: Simran Singh, partnership: Deepika Pawar,
-// nominations: Sagun Kumari), so nothing is lost before a backend exists.
+// nominations: Zameer Siddiqui), so nothing is lost before a backend exists.
 window.NBT_FORMS = {
   endpoint: ""
 };

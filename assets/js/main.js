@@ -203,6 +203,19 @@
     });
   });
 
+  // ---------- Modal dialogs: open via [data-open], close via backdrop / [data-close] ----------
+  document.addEventListener('click', function (e) {
+    var t = e.target.closest && e.target.closest('[data-open]');
+    if (!t) return;
+    var d = document.getElementById(t.getAttribute('data-open'));
+    if (d && d.showModal) { e.preventDefault(); d.showModal(); }
+  });
+  [].forEach.call(document.querySelectorAll('dialog.modal'), function (d) {
+    d.addEventListener('click', function (e) {
+      if (e.target === d || (e.target.closest && e.target.closest('[data-close]'))) d.close();
+    });
+  });
+
   // ---------- Awards: nomination dialog ----------
   var modal = document.getElementById('nominate');
   if (modal && modal.showModal) {
@@ -233,9 +246,6 @@
       var track = t.getAttribute('data-track');
       if (track !== null) { trackSel.value = track; fillCategories(); }
       modal.showModal();
-    });
-    modal.addEventListener('click', function (e) {
-      if (e.target === modal || (e.target.closest && e.target.closest('[data-close]'))) modal.close();
     });
   }
 })();

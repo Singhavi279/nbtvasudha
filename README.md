@@ -22,7 +22,7 @@ Edit content directly in the four HTML files — keep the English and Hindi page
 
 ## Forms
 Set the endpoint in `assets/js/config.js`. With none set, each form opens a pre-filled email to its contact
-(registration: Simran Singh, partnership: Deepika Pawar, nominations: Sagun Kumari). There is no online
+(registration: Simran Singh, partnership: Deepika Pawar, nominations: Zameer Siddiqui). There is no online
 payment on the site; nominations and registrations are confirmed by the team. The payload contract is in that file.
 
 ## Event facts (keep these identical everywhere)
