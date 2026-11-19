@@ -78,7 +78,7 @@ header{
 }
 .nav{ display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 72px; max-width: none; padding-left: max(clamp(16px, 4vw, 56px), env(safe-area-inset-left)); padding-right: max(clamp(16px, 4vw, 56px), env(safe-area-inset-right)); }
 .logo{ display: inline-flex; align-items: center; gap: 12px; line-height: 1; }
-.logo-img{ height: 52px; width: auto; max-width: 140px; object-fit: contain; }
+.logo-img{ height: 52px; width: auto; max-width: 140px; object-fit: contain; filter: drop-shadow(0 2px 8px rgba(0,0,0,.2)); }
 .logo-badge{
   font-size: 11.5px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; white-space: nowrap;
   color: var(--green); background: var(--soft); border: 1px solid var(--line); padding: 4px 10px; border-radius: 20px;
@@ -336,7 +336,7 @@ details a{ color: var(--green); text-decoration: underline; text-underline-offse
 /* ------------------------------------------------------------ footer */
 footer{ padding: 40px 0 max(40px, env(safe-area-inset-bottom)); border-top: 1px solid var(--line); font-size: 14px; color: var(--muted); line-height: 1.8; }
 .foot-top{ display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid var(--line); }
-.footer-logo{ height: 64px; width: auto; }
+.footer-logo{ height: 64px; width: auto; filter: drop-shadow(0 2px 8px rgba(0,0,0,.15)); }
 .tl-logo img{ height: 72px; width: auto; }
 .foot-links{ display: flex; flex-wrap: wrap; gap: 8px 24px; margin-top: 14px; }
 .foot-links a{ color: var(--green); font-weight: 500; }
