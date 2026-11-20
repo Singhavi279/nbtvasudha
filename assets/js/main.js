@@ -145,7 +145,7 @@
       // No endpoint configured: open a pre-filled email.
       var lines = Object.keys(fields).map(function (k) { return k + ': ' + fields[k]; });
       lines.push('', 'Source: ' + payload.page + ' (' + payload.lang + ')');
-      var subject = 'NBT Vasudha ' + (payload.form === 'nomination' ? 'Nomination' : 'Enquiry') + (fields.name ? ' — ' + fields.name : '');
+      var subject = 'NBT Vasudha ' + (payload.form === 'nomination' ? 'Nominee Enquiry' : 'Enquiry') + (fields.name ? ' — ' + fields.name : '');
       var href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
       var fallback = form.querySelector('.mail-fallback');
       if (fallback) fallback.href = href;
@@ -216,35 +216,29 @@
     });
   });
 
-  // ---------- Awards: nomination dialog ----------
+  // ---------- Awards: nominee enquiry dialog ----------
   var modal = document.getElementById('nominate');
   if (modal && modal.showModal) {
-    var planSel = document.getElementById('nom-plan');
-    var trackSel = document.getElementById('nom-track');
-    var catSel = document.getElementById('nom-category');
+    var fieldSel = document.getElementById('nom-field');
+    var planInp = document.getElementById('nom-plan');
     var panels = [].slice.call(document.querySelectorAll('.track-panel'));
 
-    // Tracks and categories come from the panels on the page, in the page's language.
-    trackSel.innerHTML = panels.map(function (p, i) {
-      return '<option value="' + i + '">' + p.querySelector('h3').textContent + '</option>';
-    }).join('');
-    function fillCategories() {
-      var p = panels[+trackSel.value];
-      catSel.innerHTML = [].map.call(p.querySelectorAll('.chips li'), function (li) {
+    // "Field of contribution": award tracks and their categories, read from the page in its own language.
+    fieldSel.insertAdjacentHTML('beforeend', panels.map(function (p) {
+      return '<optgroup label="' + p.querySelector('h3').textContent + '">' + [].map.call(p.querySelectorAll('.chips li'), function (li) {
         return '<option>' + li.textContent + '</option>';
-      }).join('');
-    }
-    trackSel.addEventListener('change', fillCategories);
-    fillCategories();
+      }).join('') + '</optgroup>';
+    }).join(''));
 
     document.addEventListener('click', function (e) {
       var t = e.target.closest && e.target.closest('[data-nominate]');
       if (!t) return;
       e.preventDefault();
-      var plan = t.getAttribute('data-plan');
-      if (plan) planSel.value = plan;
+      planInp.value = t.getAttribute('data-plan') || '';
       var track = t.getAttribute('data-track');
-      if (track !== null) { trackSel.value = track; fillCategories(); }
+      if (track !== null && fieldSel.querySelectorAll('optgroup')[+track]) {
+        fieldSel.value = fieldSel.querySelectorAll('optgroup')[+track].firstChild.value;
+      }
       modal.showModal();
     });
   }

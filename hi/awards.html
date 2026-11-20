@@ -97,22 +97,22 @@
 <dialog class="modal" id="nominate" aria-labelledby="nom-title">
 <div class="modal-card">
 <button type="button" class="modal-x" data-close aria-label="बंद करें">&times;</button>
-<h2 id="nom-title">अवॉर्ड्स के लिए नामांकन</h2>
+<h2 id="nom-title">नॉमिनी पूछताछ फ़ॉर्म</h2>
+<p class="modal-sub">NBT वसुधा अवॉर्ड्स के बारे में अपनी रुचि दर्ज करें</p>
 <form data-form="nomination" data-to="zameer.siddiqui@timesinternet.in" novalidate>
 <div class="form-fields">
-<div class="field full"><label for="nom-plan">प्लान</label><select id="nom-plan" name="plan" required><option value="Individual Growth">व्यक्तिगत ग्रोथ — ₹8,999 + जीएसटी (1 श्रेणी)</option><option value="Individual Acceleration">व्यक्तिगत एक्सेलरेशन — ₹17,999 + जीएसटी (2 श्रेणियाँ)</option><option value="Corporate Standard">कॉर्पोरेट स्टैंडर्ड — ₹25,999 + जीएसटी (1 श्रेणी)</option><option value="Corporate Growth">कॉर्पोरेट ग्रोथ — ₹34,999 + जीएसटी (2 श्रेणियाँ)</option><option value="Corporate Acceleration">कॉर्पोरेट एक्सेलरेशन — ₹51,999 + जीएसटी (3 श्रेणियाँ)</option></select></div>
-<div class="field"><label for="nom-track">अवॉर्ड ट्रैक</label><select id="nom-track" name="track"></select></div>
-<div class="field"><label for="nom-category">श्रेणी</label><select id="nom-category" name="category" required></select></div>
-<div class="field"><label for="nom-name">नामांकित व्यक्ति या संस्था का नाम</label><input id="nom-name" name="name" type="text" autocomplete="organization" required></div>
-<div class="field"><label for="nom-contact">संपर्क व्यक्ति</label><input id="nom-contact" name="contactPerson" type="text" autocomplete="name" required></div>
-<div class="field"><label for="nom-email">आधिकारिक ईमेल</label><input id="nom-email" name="email" type="email" autocomplete="email" required></div>
-<div class="field"><label for="nom-phone">मोबाइल नंबर</label><input id="nom-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" required></div>
-<div class="field full"><label for="nom-summary">आपकी कहानी और प्रभाव, संक्षेप में (वैकल्पिक)</label><textarea id="nom-summary" name="summary" rows="3" maxlength="800" placeholder="आपने क्या किया, क्या बदला, और उसे कैसे मापा"></textarea></div>
-<div class="field check"><input type="checkbox" id="nom-consent" name="consent" required><label for="nom-consent">मैं सहमत हूँ कि टाइम्स इंटरनेट की टीम इस नामांकन के बारे में फ़ोन, व्हाट्सऐप या ईमेल से मुझसे संपर्क कर सकती है।</label></div>
-<button type="submit" class="btn block">नामांकन भेजें &rarr;</button>
+<input type="hidden" id="nom-plan" name="plan">
+<div class="field full"><label for="nom-name">नॉमिनी का नाम *</label><input id="nom-name" name="name" type="text" autocomplete="off" required></div>
+<div class="field"><label for="nom-email">संपर्क ईमेल *</label><input id="nom-email" name="email" type="email" autocomplete="email" required></div>
+<div class="field"><label for="nom-phone">संपर्क मोबाइल *</label><input id="nom-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" required></div>
+<div class="field"><label for="nom-type">नॉमिनी का प्रकार *</label><select id="nom-type" name="nomineeType" required><option value="" disabled selected>चुनें…</option><option value="व्यक्ति">व्यक्ति</option><option value="कॉर्पोरेट / कंपनी">कॉर्पोरेट / कंपनी</option><option value="स्टार्टअप / MSME">स्टार्टअप / MSME</option><option value="NGO / गैर-लाभकारी">NGO / गैर-लाभकारी</option><option value="सरकारी / संस्थान">सरकारी / संस्थान</option></select></div>
+<div class="field"><label for="nom-field">योगदान का क्षेत्र *</label><select id="nom-field" name="field" required><option value="" disabled selected>चुनें…</option></select></div>
+<div class="field full"><label for="nom-why">इन्हें सम्मानित क्यों किया जाना चाहिए? *</label><textarea id="nom-why" name="reason" rows="3" maxlength="800" required></textarea></div>
+<button type="submit" class="btn block">आगे बढ़ें &rarr;</button>
 <p class="form-status" role="alert" aria-live="assertive"></p>
+<p class="modal-help">मदद चाहिए? <a href="tel:+919919759480">ज़मीर को कॉल करें · +91 9919759480</a></p>
 </div>
-<div class="form-done" hidden tabindex="-1"><h3>धन्यवाद!</h3><p class="done-sent" hidden>हमारी अवॉर्ड्स टीम जल्द ही आपसे संपर्क करेगी।</p><p class="done-mail" hidden>बस एक कदम बाकी: आपके मेल ऐप में पहले से भरा ईमेल खुल गया होगा, कृपया उसे भेजें। अगर नहीं खुला, तो सीधे लिखें: <a class="mail-fallback" href="mailto:zameer.siddiqui@timesinternet.in">zameer.siddiqui@timesinternet.in</a></p></div>
+<div class="form-done" hidden tabindex="-1"><h3>आपकी रुचि दर्ज हो गई</h3><p class="done-sent" hidden>धन्यवाद। आपकी रुचि हमें मिल गई है और नामांकन प्रक्रिया के लिए हमारी टीम जल्द ही आपसे संपर्क करेगी।</p><p class="done-mail" hidden>धन्यवाद। आपकी रुचि हमें मिल गई है और नामांकन प्रक्रिया के लिए हमारी टीम जल्द ही आपसे संपर्क करेगी। बस एक कदम बाकी: आपके मेल ऐप में पहले से भरा ईमेल खुल गया होगा, कृपया उसे भेजें। अगर नहीं खुला, तो सीधे लिखें: <a class="mail-fallback" href="mailto:zameer.siddiqui@timesinternet.in">zameer.siddiqui@timesinternet.in</a></p><p class="modal-help">कोई सवाल है? <a href="tel:+919919759480">ज़मीर को कॉल करें · +91 9919759480</a></p></div>
 </form>
 </div>
 </dialog>

@@ -414,3 +414,10 @@ dialog.modal::backdrop{ background: rgba(6, 30, 17, .66); -webkit-backdrop-filte
 }
 .contact-general{ text-align: center; margin: 36px auto 0; max-width: 90ch; color: var(--muted); font-size: 15.5px; }
 .contact-general a{ color: var(--green); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+
+.modal-sub{ margin: -8px 40px 14px 0; color: var(--muted); font-size: 13.5px; line-height: 1.5; }
+.modal-help{ text-align: center; margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+.modal .form-fields > .modal-help{ grid-column: 1 / -1; }
+.modal-help a{ color: var(--green); font-weight: 600; }
+.form-done .modal-help{ margin-top: 16px; }
+.modal .form-fields[hidden]{ display: none; }
